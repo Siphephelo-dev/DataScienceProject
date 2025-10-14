@@ -9,7 +9,7 @@ Neural Collaborative Filtering (Deep Learning with Embeddings)
 Hybrid Model (Weighted Ensemble)
 
 Key Results
-ModelRMSEMAETraining TimeCollaborative Filtering0.9230.7414.04sNeural Network0.7820.61452.31sHybrid Model0.7100.578~56s
+ModelRMSEMAETraining TimeCollaborative Filtering: 0.9230.7414.04s, Neural Network: 0.7820.61452.31s, Hybrid Model: 0.7100.578~56s.
 Achievements:
 
 ✅ 15.2% improvement with Neural Networks over CF
